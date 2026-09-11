@@ -1,0 +1,12 @@
+sign_off_message = "Bye!" 
+name = input("What is your name?")
+print(f"Hello {name} and today you will be learning facts about Annie Herrmann")
+input()
+print("My real name is Annabel")
+input ()
+print("I have four names total")
+input()
+print("I lived in Luxembourg for three years")
+input()
+print("I was on a national sports team")
+print(sign_off_message)
