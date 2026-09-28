@@ -39,4 +39,7 @@ elif place1 == "ice cream":
         print("great! you got it in a waffle cone!")
     else:
         print("welp you didn't get ice cream")
+else:
+    print("welp you sat in your bed all day")
+
 print(sign_off_message)
